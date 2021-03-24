@@ -1,10 +1,9 @@
-<p align="center"># :man_student: C :woman_student:
+# <p align="center">:man_student: C :woman_student:
 
-<p align="center">##  Introdução a linguagem C;
+## <p align="center">Linguagem C; 
 
-<p align="center">## Nível : Iniciante; 
+### <p align="center">IF, ELSE IF, ELSE;<br>
 
-<p align="center">### IF, ELSE IF, ELSE;<br>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -19,9 +18,9 @@ if ( condition )
  cont++;
 
 }else if ( condition )
- 
+
   instruction;
- 
+
  {
 
  	instruction;
@@ -37,3 +36,6 @@ if ( condition )
    cont++;
 
   }
+
+#  <p align="center">:coffee: :nerd_face: :computer: _Follow @Bruno_Sthill
+

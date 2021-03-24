@@ -1,8 +1,6 @@
-# 👨‍🎓 C 👩‍🎓
+# <p align="center">👨‍🎓 C 👩‍🎓
 
-## Introdução a linguagem C;
-
-## Nível : Iniciante;
+## <p align="center">Linguagem C;
 
 
 
@@ -14,4 +12,4 @@ Folder Mini_Projetos:
 
 
 
-# ☕🤓💻 _ Follow @Bruno_Sthill
+# <p align="center">☕🤓💻 _ Follow @Bruno_Sthill

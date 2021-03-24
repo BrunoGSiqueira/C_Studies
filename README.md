@@ -1,10 +1,10 @@
-#  <p align="center">:man_student: C :woman_student:
+# <p align="center">:man_student: C :woman_student:
 
-# <p align="center">Linguagem C;
+## <p align="center">Linguagem C;
 
-##   Nível : Iniciante; 
 
-* Estudies;
+
+- Estudies;
 
 * Ideas;
 
@@ -14,22 +14,20 @@
 
   
 
-<p align="center">  * PRINTF;<br>
++ PRINTF;<br>
 
-<p align="center">  * SCANF;<br>
+* SCANF;<br>
 
-<p align="center">  * FOR;<br>
+ * FOR;<br>
 
-<p align="center">  * WHILE;<br>
+ * WHILE;<br>
 
-<p align="center">  * DO WHILE;<br>
+ * DO WHILE;<br>
 
-<p align="center">  * SWITCH CASE;<br>
+ * SWITCH CASE;<br>
 
-<p align="center">  * VETOR;<br>
+ * VETOR;<br>
 
-<p align="center">  * MATRIZ;<br>
-
-​    
+ * MATRIZ;<br>
 
 # <p align="center">☕🤓💻 _ Follow @Bruno_Sthill

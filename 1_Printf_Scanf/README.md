@@ -1,20 +1,22 @@
-<p align="center"># :man_student: C :woman_student:
+# <p align="center">:man_student: C :woman_student:
 
-<p align="center">##  Introdução a linguagem C;
+## <p align="center">Linguagem C;
 
-<p align="center">## Nível : Iniciante; 
-
-<p align="center">### aTeoria_Printf_Scanf<br>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<p align="center">### structure:
+#### <p align="center">structure:
+
 
 <p align="center">printf( " ... ", var );
 
 <p align="center">scanf( "%... ", &var );
 
+
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+###     aTeoria_Printf_Scanf
 
 ###    * Main file;
 
@@ -30,4 +32,4 @@
 
 
 
-# ☕🤓💻 _ Follow @Bruno_Sthill
+# <p aligne = "center">☕🤓💻 _ Follow @Bruno_Sthill

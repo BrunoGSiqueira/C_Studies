@@ -1,37 +1,36 @@
-# :man_student: C :woman_student:
+# <p align="center">:man_student: C :woman_student:
 
-##  Introdução a linguagem C;
+##  <p align="center">Linguagem C;
 
-## Nível : Iniciante; 
-
-### Vetor<br>
+### <p align="center">Vetor<br>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<p align="center">### structure:
+structure:
 
-<p align="center">:arrow_forward:  Without return;
+:arrow_forward:  Without return;
 
-<p align="center">void name_var ( )
+void name_var ( )
 
-<p align="center">{
+{
 
-<p align="center">​	instruction;
+instruction;
 
-<p align="center">} 
+} 
 
-<p align="center">:arrow_forward: With Retunr;
+:arrow_forward: With Retunr;
 
-<p align="center">int, float, double, char name_var ( )
+int, float, double, char name_var ( )
 
-<p align="center">{
+{
 
-<p align="center">​	int var = ...;
+int var = ...;
 
-<p align="center">​	instruction;
+instruction;
 
-<p align="center">​	return var;
+return var;
 
-<p align="center">}
 
-</p align="center">
+}
+# <p align="center">☕🤓💻 _ Follow @Bruno_Sthill
+

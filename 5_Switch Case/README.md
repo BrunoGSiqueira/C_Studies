@@ -1,10 +1,8 @@
-# :man_student: C :woman_student:
+# <p align="center">:man_student: C :woman_student:
 
-##  Introdução a linguagem C;
+##  <p align="center">Linguagem C;
 
-## Nível : Iniciante; 
-
-### Switch Case;<br>
+### <p align="center">Switch Case;<br>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -33,3 +31,5 @@ switch ( var )
 ​	...;
 
 }
+
+# <p align="center">☕🤓💻 _ Follow @Bruno_Sthill

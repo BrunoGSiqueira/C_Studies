@@ -1,10 +1,8 @@
-# :man_student: C :woman_student:
+# <p align="center">:man_student: C :woman_student:
 
-##  Introdução a linguagem C;
+##  <p align="center">Linguagem C;
 
-## Nível : Iniciante; 
-
-### IF, ELSE IF, ELSE;<br>
+### <p align="center">IF, ELSE IF, ELSE;<br>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -31,3 +29,5 @@ for ( int i = 0; i <= 10; i++)
 ​	cont++;
 
 }
+
+# <p align="center">☕🤓💻 _ Follow @Bruno_Sthill

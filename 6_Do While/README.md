@@ -1,10 +1,8 @@
-# :man_student: C :woman_student:
+# <p align="center">:man_student: C :woman_student:
 
-##  Introdução a linguagem C;
+##  <p align="center">Linguagem C;
 
-## Nível : Iniciante; 
-
-### Do While<br>
+### <p align="center">Do While<br>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -19,3 +17,5 @@ do{
 ​	cont++;
 
 }while ( condition );
+
+# <p align="center">☕🤓💻 _ Follow @Bruno_Sthill

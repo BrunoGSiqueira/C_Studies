@@ -1,6 +1,6 @@
-# :man_student: Mini Game SkyNet - C Language :woman_student:
+# <p align="center">:man_student: Mini Game SkyNet - C Language :woman_student:
 
-# Mini Programming Logic Project
+# <p align="center">Mini Programming Logic Project
 
 -  Using C Language & Switch Case Command.
 - Designed a Mini Game: Paper, Scissors and Stone. 
@@ -20,4 +20,4 @@
    
    
 
-#  :coffee::nerd_face::computer: _ Follow @Bruno_Sthill
+#  <p align="center"><p a:coffee::nerd_face::computer: _ Follow @Bruno_Sthill
