@@ -14,9 +14,9 @@ if ( condition )
 
 {
 
-​	instructio;
+ instructio;
 
-​	cont++;
+ cont++;
 
 }else if ( condition )
  
@@ -26,14 +26,14 @@ if ( condition )
 
  	instruction;
 
- ​cont++;
+  cont++;
 
  }else
 
   {
 
-  	....;
+  	instruction;
 
-​	cont++;
+   cont++;
 
   }
