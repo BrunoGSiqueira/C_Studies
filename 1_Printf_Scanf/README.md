@@ -1,18 +1,18 @@
-# :man_student: C :woman_student:
+<p align="center"># :man_student: C :woman_student:
 
-##  Introdução a linguagem C;
+<p align="center">##  Introdução a linguagem C;
 
-## Nível : Iniciante; 
+<p align="center">## Nível : Iniciante; 
 
-### aTeoria_Printf_Scanf<br>
+<p align="center">### aTeoria_Printf_Scanf<br>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### structure:
+<p align="center">### structure:
 
-printf( " ... ", var );
+<p align="center">printf( " ... ", var );
 
-scanf( "%... ", &var );
+<p align="center">scanf( "%... ", &var );
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
