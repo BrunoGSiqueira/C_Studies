@@ -34,4 +34,4 @@ int, float, double, char name_var ( )
 
 }
 
-</p>
+</p align="center">
