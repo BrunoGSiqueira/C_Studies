@@ -1,8 +1,8 @@
 # <p align="center">:man_student: C :woman_student:
 
-## <p align="center">Linguagem C;
+## <p align="center">Linguagem C
 
-#### <p align="center">structure:
+### <p align="center">structure:
 
 
 <p align="center">printf( " ... ", var );
